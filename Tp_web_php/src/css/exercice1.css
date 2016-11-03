@@ -1,0 +1,24 @@
+#resultat {
+    font-size: medium;
+    font-style: italic;
+}
+.control-label,.resultat{
+    color:white;
+}
+.titre{
+    border-bottom: 1px solid blue;
+}
+#calcul {
+    margin:15px  0px 0px 100px;
+    border-top: 9px solid black;
+    background: black;
+}
+
+#val {
+    background-color: red;
+    font-size:20px;
+}
+#carre {
+    font-size:20px;
+    background-color: green;
+}
